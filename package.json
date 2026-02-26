@@ -1,0 +1,13 @@
+{
+  "name": "api-av1-marcell",
+  "version": "1.0.0",
+  "description": "API simples Node + Express - AV1",
+  "type": "module",
+  "scripts": {
+    "dev": "node src/server.js",
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
